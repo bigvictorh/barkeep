@@ -1,0 +1,98 @@
+name,type,alcohol_content
+Vodka,Spirit,40.00
+Gin,Spirit,40.00
+Rum,Spirit,40.00
+Tequila,Spirit,40.00
+Whiskey,Spirit,40.00
+Bourbon,Spirit,40.00
+Scotch,Spirit,40.00
+Brandy,Spirit,40.00
+Cognac,Spirit,40.00
+Absinthe,Spirit,68.00
+Amaretto,Liqueur,28.00
+Anisette,Liqueur,25.00
+Baileys Irish Cream,Liqueur,17.00
+Campari,Liqueur,24.00
+Chartreuse,Liqueur,55.00
+Cointreau,Liqueur,40.00
+Creme de Menthe,Liqueur,25.00
+Drambuie,Liqueur,40.00
+Frangelico,Liqueur,20.00
+Galliano,Liqueur,42.30
+Grand Marnier,Liqueur,40.00
+Jagermeister,Liqueur,35.00
+Kahlua,Liqueur,20.00
+Limoncello,Liqueur,28.00
+Maraschino,Liqueur,32.00
+Midori,Liqueur,20.00
+Ouzo,Liqueur,37.50
+Pernod,Liqueur,40.00
+Sambuca,Liqueur,42.00
+Sloe Gin,Liqueur,26.00
+Triple Sec,Liqueur,40.00
+Vermouth,Dry Vermouth,18.00
+Sweet Vermouth,Dry Vermouth,16.00
+Angostura Bitters,Bitters,44.70
+Peychaud's Bitters,Bitters,35.00
+Orange Bitters,Bitters,40.00
+Aperol,Liqueur,11.00
+Lillet Blanc,Aperitif,17.00
+Dubonnet Rouge,Aperitif,15.00
+Dry Sherry,Fortified Wine,15.00
+Port,Fortified Wine,20.00
+Madeira,Fortified Wine,18.00
+Marsala,Fortified Wine,18.00
+Champagne,Sparkling Wine,12.00
+Prosecco,Sparkling Wine,11.00
+Cava,Sparkling Wine,11.50
+Club Soda,Mixer,0.00
+Tonic Water,Mixer,0.00
+Ginger Beer,Mixer,0.00
+Ginger Ale,Mixer,0.00
+Cola,Mixer,0.00
+Lemon-Lime Soda,Mixer,0.00
+Orange Juice,Juice,0.00
+Lemon Juice,Juice,0.00
+Lime Juice,Juice,0.00
+Pineapple Juice,Juice,0.00
+Cranberry Juice,Juice,0.00
+Tomato Juice,Juice,0.00
+Grapefruit Juice,Juice,0.00
+Pomegranate Juice,Juice,0.00
+Apple Juice,Juice,0.00
+Grenadine,Syrup,0.00
+Simple Syrup,Syrup,0.00
+Orgeat Syrup,Syrup,0.00
+Honey Syrup,Syrup,0.00
+Maple Syrup,Syrup,0.00
+Agave Syrup,Syrup,0.00
+Coconut Cream,Mixer,0.00
+Heavy Cream,Dairy,0.00
+Egg White,Other,0.00
+Mint Leaves,Herb,0.00
+Basil Leaves,Herb,0.00
+Rosemary Sprig,Herb,0.00
+Thyme Sprig,Herb,0.00
+Cucumber Slices,Vegetable,0.00
+Celery Stick,Vegetable,0.00
+Olive,Other,0.00
+Maraschino Cherry,Other,0.00
+Orange Slice,Fruit,0.00
+Lemon Slice,Fruit,0.00
+Lime Wedge,Fruit,0.00
+Pineapple Slice,Fruit,0.00
+Grapefruit Slice,Fruit,0.00
+Strawberry,Fruit,0.00
+Raspberry,Fruit,0.00
+Blueberry,Fruit,0.00
+Blackberry,Fruit,0.00
+Peach Slice,Fruit,0.00
+Mango Slice,Fruit,0.00
+Kiwi Slice,Fruit,0.00
+Passionfruit,Fruit,0.00
+Cinnamon Stick,Spice,0.00
+Nutmeg,Spice,0.00
+Cloves,Spice,0.00
+Vanilla Extract,Flavoring,35.00
+Almond Extract,Flavoring,35.00
+Peppermint Extract,Flavoring,35.00
